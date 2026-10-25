@@ -1,0 +1,37 @@
+{
+  "original_shape": [
+    568454,
+    10
+  ],
+  "missing_values": {
+    "Id": 0,
+    "ProductId": 0,
+    "UserId": 0,
+    "ProfileName": 26,
+    "HelpfulnessNumerator": 0,
+    "HelpfulnessDenominator": 0,
+    "Score": 0,
+    "Time": 0,
+    "Summary": 27,
+    "Text": 0
+  },
+  "numerical_columns": [
+    "Id",
+    "HelpfulnessNumerator",
+    "HelpfulnessDenominator",
+    "Score",
+    "Time"
+  ],
+  "categorical_columns": [
+    "ProductId",
+    "UserId",
+    "ProfileName",
+    "Summary",
+    "Text"
+  ],
+  "duplicate_text_count": 174875,
+  "cleaned_full_shape": [
+    393560,
+    10
+  ]
+}

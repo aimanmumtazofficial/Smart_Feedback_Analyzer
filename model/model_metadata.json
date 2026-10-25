@@ -1,0 +1,14 @@
+{
+  "best_model_name": "Logistic Regression",
+  "best_accuracy": 0.6846666666666666,
+  "neutral_recall": 0.6533333333333333,
+  "neutral_boost_factor": 5,
+  "training_samples": 12000,
+  "test_samples": 3000,
+  "tfidf_features": 5000,
+  "classes": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ]
+}
